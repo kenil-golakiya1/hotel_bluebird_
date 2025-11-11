@@ -1,4 +1,4 @@
-﻿# hotel-bulebird-
+﻿# hotel-bluebird-
  💡 Overview
 
 The system provides two main interfaces:
@@ -66,4 +66,5 @@ Mobile app support (Android/iOS)
 Auto-email notifications for booking confirmations
 
 Dynamic pricing and seasonal offers
+
 
